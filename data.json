@@ -1,4 +1,24 @@
 {
+    "cards": [
+        {
+            "id": 1,
+            "url": "https://res.cloudinary.com/danimel/image/upload/v1641933602/4_hi0ywp.jpg",
+            "nombre": "Tarea 1",
+            "descripcion": "Ejemplo tarea 1"
+        },
+        {
+            "id": 2,
+            "url": "https://res.cloudinary.com/danimel/image/upload/v1641933602/1_u3emjm.jpg",
+            "nombre": "Tarea 2",
+            "descripcion": "Plato de cocinando con amor"
+        },
+        {
+            "id": 3,
+            "url": "https://res.cloudinary.com/danimel/image/upload/v1641933603/3_syipj2.jpg",
+            "nombre": "Tarea 3",
+            "descripcion": "Ejemplo Cards  3"
+        }
+    ],
     "usuarios":[
         {
             "id": 1,
